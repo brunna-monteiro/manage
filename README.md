@@ -1,2 +1,2 @@
 # Manage
-The project was created by Frontend Mentor, with the course being taught by Kevin Powell
+Project by Frontend Mentor for the course from Kevin Powell.
